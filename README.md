@@ -1,0 +1,5 @@
+# Fahrenheit ATEL Compiler
+_(Atelier, for short)_
+
+A work-in-progress, extremely unfinished, extremely incorrect, extremely shoddy compiler
+for the ATEL (Active Time Event Language) runtime of Final Fantasy X and X-2.
