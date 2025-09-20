@@ -3,7 +3,7 @@
 using System.Runtime.CompilerServices;
 
 using Fahrenheit.Core;
-using Fahrenheit.Core.FFX.Atel;
+using Fahrenheit.Core.Atel;
 
 namespace Fahrenheit.Tools.Atelier;
 
