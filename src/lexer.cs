@@ -1,4 +1,6 @@
-﻿namespace Fahrenheit.Tools.Atelier;
+﻿// SPDX-License-Identifier: MIT
+
+namespace Fahrenheit.Tools.Atelier;
 
 public enum ATEL_TOKEN_TYPE {
     LEFT_PAREN,  // (

@@ -1,4 +1,6 @@
-﻿namespace Fahrenheit.Tools.Atelier;
+﻿// SPDX-License-Identifier: MIT
+
+namespace Fahrenheit.Tools.Atelier;
 
 /* [fkelava 29/8/25 18:01]
  * I do not see the particular use of the visitor pattern

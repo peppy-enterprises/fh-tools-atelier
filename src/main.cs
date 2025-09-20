@@ -1,10 +1,13 @@
-﻿using System.Text;
+﻿// SPDX-License-Identifier: MIT
+
+using System.Text;
 
 namespace Fahrenheit.Tools.Atelier;
 
 internal static class Program {
 
     private static int Main(string[] args) {
+
         // ---
         // ARGPARSE START
         // ---
@@ -50,5 +53,8 @@ internal static class Program {
             Console.WriteLine(ex.Message);
             return;
         }
+
+        AtelAssembler asm = new AtelAssembler();
+        asm.disassemble(data, "azit0000");
     }
 }

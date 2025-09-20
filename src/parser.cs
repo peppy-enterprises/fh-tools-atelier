@@ -1,8 +1,10 @@
-﻿namespace Fahrenheit.Tools.Atelier;
+﻿// SPDX-License-Identifier: MIT
+
+namespace Fahrenheit.Tools.Atelier;
 
 public class AtelParseException : Exception {
-    public AtelParseException() { }
-    public AtelParseException(string message) : base(message) { }
+    public AtelParseException()                                                       { }
+    public AtelParseException(string message)                  : base(message)        { }
     public AtelParseException(string message, Exception inner) : base(message, inner) { }
 }
 
