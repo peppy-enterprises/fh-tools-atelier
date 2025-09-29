@@ -55,6 +55,5 @@ internal static class Program {
         }
 
         AtelAssembler asm = new AtelAssembler();
-        asm.disassemble(data, "azit0000");
     }
 }
