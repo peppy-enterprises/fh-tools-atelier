@@ -2,8 +2,7 @@
 
 using System.Runtime.CompilerServices;
 
-using Fahrenheit.Core;
-using Fahrenheit.Core.Atel;
+using Fahrenheit.Atel;
 
 namespace Fahrenheit.Tools.Atelier;
 
